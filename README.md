@@ -11,7 +11,7 @@ This is a static one page portfolio Template made using HTML & CSS
 
 ### **Time spent to finish it.**
 
-It took me -5 hours to make this project.Please find link of the project below.
+It took me 5 hours to make this project.Please find link of the project below.
 
 **[Live Project's netlify link](https://chipper-naiad-37d00c.netlify.app/ "Project link")**
 
